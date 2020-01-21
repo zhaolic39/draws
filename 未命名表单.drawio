@@ -1,64 +1,64 @@
-<mxfile host="www.draw.io" modified="2020-01-21T02:39:37.159Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="mrL-xZbZnAYcjlEFONMZ" version="12.5.5" type="github">
+<mxfile host="www.draw.io" modified="2020-01-21T07:24:49.523Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="gnXqjkmdUSrdKg9Wlxkb" version="12.5.5" type="github">
   <diagram id="XMF1csOt-eKG5Jjr70nS" name="第 1 页">
-    <mxGraphModel dx="895" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1298" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="ok2jsvLDKa98uQjhFEfK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ok2jsvLDKa98uQjhFEfK-1" target="ok2jsvLDKa98uQjhFEfK-2">
+        <mxCell id="ok2jsvLDKa98uQjhFEfK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ok2jsvLDKa98uQjhFEfK-1" target="ok2jsvLDKa98uQjhFEfK-2" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="ok2jsvLDKa98uQjhFEfK-11" value="叫号/诊断/检测" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="ok2jsvLDKa98uQjhFEfK-3">
+        <mxCell id="ok2jsvLDKa98uQjhFEfK-11" value="叫号/诊断/检测" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" parent="ok2jsvLDKa98uQjhFEfK-3" vertex="1" connectable="0">
           <mxGeometry x="0.0276" y="-1" relative="1" as="geometry">
             <mxPoint as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ok2jsvLDKa98uQjhFEfK-1" value="诊所医生" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="ok2jsvLDKa98uQjhFEfK-1" value="诊所医生" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="140" width="30" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="ok2jsvLDKa98uQjhFEfK-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ok2jsvLDKa98uQjhFEfK-2" target="ok2jsvLDKa98uQjhFEfK-8">
+        <mxCell id="ok2jsvLDKa98uQjhFEfK-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ok2jsvLDKa98uQjhFEfK-2" target="ok2jsvLDKa98uQjhFEfK-8" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="ok2jsvLDKa98uQjhFEfK-12" value="获取检测数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="ok2jsvLDKa98uQjhFEfK-9">
+        <mxCell id="ok2jsvLDKa98uQjhFEfK-12" value="获取检测数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" parent="ok2jsvLDKa98uQjhFEfK-9" vertex="1" connectable="0">
           <mxGeometry x="-0.1409" y="-2" relative="1" as="geometry">
             <mxPoint as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ok2jsvLDKa98uQjhFEfK-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ok2jsvLDKa98uQjhFEfK-2" target="ok2jsvLDKa98uQjhFEfK-13">
+        <mxCell id="ok2jsvLDKa98uQjhFEfK-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ok2jsvLDKa98uQjhFEfK-2" target="ok2jsvLDKa98uQjhFEfK-13" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="ok2jsvLDKa98uQjhFEfK-17" value="预约提醒" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="ok2jsvLDKa98uQjhFEfK-15">
+        <mxCell id="ok2jsvLDKa98uQjhFEfK-17" value="预约提醒" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" parent="ok2jsvLDKa98uQjhFEfK-15" vertex="1" connectable="0">
           <mxGeometry x="-0.0586" y="1" relative="1" as="geometry">
             <mxPoint as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ok2jsvLDKa98uQjhFEfK-2" value="诊所预约系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="ok2jsvLDKa98uQjhFEfK-2" value="诊所预约系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="345" y="280" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="ok2jsvLDKa98uQjhFEfK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ok2jsvLDKa98uQjhFEfK-4" target="ok2jsvLDKa98uQjhFEfK-2">
+        <mxCell id="ok2jsvLDKa98uQjhFEfK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ok2jsvLDKa98uQjhFEfK-4" target="ok2jsvLDKa98uQjhFEfK-2" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="ok2jsvLDKa98uQjhFEfK-10" value="预约/健康报告" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="ok2jsvLDKa98uQjhFEfK-7">
+        <mxCell id="ok2jsvLDKa98uQjhFEfK-10" value="预约/健康报告" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" parent="ok2jsvLDKa98uQjhFEfK-7" vertex="1" connectable="0">
           <mxGeometry x="0.0016" y="9" relative="1" as="geometry">
             <mxPoint x="-8" y="6" as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ok2jsvLDKa98uQjhFEfK-4" value="患者用户" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="ok2jsvLDKa98uQjhFEfK-4" value="患者用户" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="280" width="30" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="ok2jsvLDKa98uQjhFEfK-8" value="检测设备数据服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="ok2jsvLDKa98uQjhFEfK-8" value="检测设备数据服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="590" y="280" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="ok2jsvLDKa98uQjhFEfK-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ok2jsvLDKa98uQjhFEfK-13" target="ok2jsvLDKa98uQjhFEfK-4">
+        <mxCell id="ok2jsvLDKa98uQjhFEfK-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ok2jsvLDKa98uQjhFEfK-13" target="ok2jsvLDKa98uQjhFEfK-4" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="400" as="targetPoint"/>
+            <mxPoint x="205" y="370" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ok2jsvLDKa98uQjhFEfK-16" value="消息提醒" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="ok2jsvLDKa98uQjhFEfK-14">
+        <mxCell id="ok2jsvLDKa98uQjhFEfK-16" value="消息提醒" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" parent="ok2jsvLDKa98uQjhFEfK-14" vertex="1" connectable="0">
           <mxGeometry x="-0.409" relative="1" as="geometry">
             <mxPoint as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ok2jsvLDKa98uQjhFEfK-13" value="短信服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="ok2jsvLDKa98uQjhFEfK-13" value="短信服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="345" y="420" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
